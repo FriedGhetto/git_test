@@ -1,0 +1,1 @@
+This is FriedGhetto's first git project
